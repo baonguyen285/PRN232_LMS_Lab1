@@ -1,0 +1,12 @@
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\bin\Release\net9.0\PRN232.LMS.Repositories.deps.json
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\bin\Release\net9.0\PRN232.LMS.Repositories.dll
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\bin\Release\net9.0\PRN232.LMS.Repositories.pdb
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\PRN232.LMS.Repositories.csproj.AssemblyReference.cache
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\PRN232.LMS.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\PRN232.LMS.Repositories.AssemblyInfoInputs.cache
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\PRN232.LMS.Repositories.AssemblyInfo.cs
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\PRN232.LMS.Repositories.csproj.CoreCompileInputs.cache
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\PRN232.LMS.Repositories.dll
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\refint\PRN232.LMS.Repositories.dll
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\PRN232.LMS.Repositories.pdb
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Release\net9.0\ref\PRN232.LMS.Repositories.dll
