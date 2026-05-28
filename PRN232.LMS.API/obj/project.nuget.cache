@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzG9QoKN5Q8=",
+  "dgSpecHash": "XB33OETMqxw=",
   "success": true,
-  "projectFilePath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.API\\PRN232.LMS.API.csproj",
+  "projectFilePath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.API\\PRN232.LMS.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

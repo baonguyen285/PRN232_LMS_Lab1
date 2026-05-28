@@ -169,3 +169,5 @@ D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.API\obj\Debug\net9.0\refint\PRN232.LMS.A
 D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.API\obj\Debug\net9.0\PRN232.LMS.API.pdb
 D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.API\obj\Debug\net9.0\PRN232.LMS.API.genruntimeconfig.cache
 D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.API\obj\Debug\net9.0\ref\PRN232.LMS.API.dll
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.API\obj\Debug\net9.0\PRN232.LMS.API.sourcelink.json
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

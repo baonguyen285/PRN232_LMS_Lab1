@@ -10,3 +10,4 @@ D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Debug\net9.0\PRN232.LMS
 D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Debug\net9.0\refint\PRN232.LMS.Repositories.dll
 D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Debug\net9.0\PRN232.LMS.Repositories.pdb
 D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Debug\net9.0\ref\PRN232.LMS.Repositories.dll
+D:\Bao\PRN232_prjs\Labs\Lab1\PRN232.LMS.Repositories\obj\Debug\net9.0\PRN232.LMS.Repositories.sourcelink.json

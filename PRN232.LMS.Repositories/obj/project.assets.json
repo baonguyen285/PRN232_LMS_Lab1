@@ -2752,11 +2752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+      "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
       "projectName": "PRN232.LMS.Repositories",
-      "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+      "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\obj\\",
+      "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Bao\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5193,11 +5193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.API\\PRN232.LMS.API.csproj",
+      "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.API\\PRN232.LMS.API.csproj",
       "projectName": "PRN232.LMS.API",
-      "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.API\\PRN232.LMS.API.csproj",
+      "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.API\\PRN232.LMS.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.API\\obj\\",
+      "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Bao\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5218,8 +5218,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj": {
-              "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj"
+            "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj": {
+              "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj"
             }
           }
         }

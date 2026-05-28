@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj": {}
+    "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj": {}
   },
   "projects": {
-    "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj": {
+    "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+        "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
         "projectName": "PRN232.LMS.Repositories",
-        "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
+        "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\obj\\",
+        "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Bao\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj": {
+    "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
+        "projectUniqueName": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
         "projectName": "PRN232.LMS.Services",
-        "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
+        "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Services\\PRN232.LMS.Services.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Services\\obj\\",
+        "outputPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Bao\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj": {
-                "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj"
+              "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj": {
+                "projectPath": "D:\\Bao\\PRN232_prjs\\Labs\\PRN232_LMS_Lab1\\PRN232.LMS.Repositories\\PRN232.LMS.Repositories.csproj"
               }
             }
           }
